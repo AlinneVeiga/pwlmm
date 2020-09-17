@@ -1,11 +1,10 @@
 Package: pwlmm
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Estimates two-level multilevel model and two-level multivariate multilevel model with weights following PWIGLS approach
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: João Messa and Alinne Veiga
+Maintainer: Alinne Veiga <alinne.veiga@ibge.gov.br>
+Description:  Estimates two-level multilevel model and two-level multivariate multilevel model with weights following PWIGLS approach.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
